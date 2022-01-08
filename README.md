@@ -13,7 +13,7 @@ Group Info
 
 * Le Anh Tu (BA9-067)
 * Nguyen Van Cuong (BA9-011)
-* Le Duy (BA9-015)
+* Le Duy (BA9-075)
 * Nguyen Ngoc Khiem (BA9-028)
 * Ly Anh Kiet (BI10-092)
 
