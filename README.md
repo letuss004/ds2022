@@ -11,7 +11,7 @@ USTH ICT 2022 Distributed Systems
 Group Info
 =======================
 
-* Le Anh Tu (BA9-067)
+* Le Anh Tu (BA9-067) (Leader)
 * Nguyen Van Cuong (BA9-011)
 * Le Duy (BA9-015)
 * Nguyen Ngoc Khiem (BA9-028)
