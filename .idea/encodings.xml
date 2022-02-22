@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Labwork3/mpi_rcv.py" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Labwork3/mpi_send.py" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Labwork3/rcv.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Labwork3/transfer.txt" charset="windows-1252" />
+  </component>
+</project>
