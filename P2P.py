@@ -26,10 +26,10 @@ if rank == 0:
 
     comm1 = coms.Accept(port1, MPI.INFO_NULL, root=0)
     comm2 = coms.Accept(port2, MPI.INFO_NULL, root=0)
-    MPI.Close_port(port1)
-    MPI.Close_port(port2)
     comm1.send(2, dest=0, tag=100)
     comm2.send(1, dest=0, tag=111)
+    MPI.Close_port(port1)
+    MPI.Close_port(port2)
     comm1.Disconnect()
     comm2.Disconnect()
 elif rank == 1:
