@@ -23,11 +23,11 @@ Le Anh Tu | BA9-067
 
 Le Duy | BA9-075
 
-Nguyen Ngoc Khiem | 
+Nguyen Ngoc Khiem | BA9-028
 
-Ly Anh Kiet | 
+Ly Anh Kiet | BI10-092 
 
-Nguyen Van Cuong |
+Nguyen Van Cuong | BA9-011
 ```  
 
  </div>
